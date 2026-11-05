@@ -1,0 +1,5 @@
+*.json.gz
+day_*.csv
+all.csv
+slurm-*.out
+bin/
